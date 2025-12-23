@@ -87,7 +87,8 @@ Stores rental bookings made by users.
 
 ## 🧪 SQL Queries
 
-All required queries are included in **`queries.sql`**.
+All required queries are included in [`queries.sql`](./queries.sql).
+
 
 ### Query 1: INNER JOIN
 Retrieve booking details along with customer name and vehicle name.
@@ -101,6 +102,4 @@ Retrieve all **available vehicles** of a specific type (e.g., cars).
 ### Query 4: GROUP BY & HAVING
 Find vehicles that have **more than 2 bookings**.
 
----
 
-## 📁 Project Structure
